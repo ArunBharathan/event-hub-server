@@ -1,0 +1,8 @@
+{
+  "name": "event-hub-server",
+  "version": "1.0.0",
+  "description": "event hub server for event management",
+  "main": "index.js",
+  "author": "Arun Bharathan",
+  "license": "MIT"
+}
